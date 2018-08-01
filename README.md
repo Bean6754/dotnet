@@ -1,2 +1,2 @@
-# C-Sharp
-My collection of C# projects.
+# dotnet
+My collection of C# .NET projects.
